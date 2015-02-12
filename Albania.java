@@ -9,6 +9,7 @@ public class Albania extends BalkanRegion
 {
     // instance variables - replace the example below with your own
     private int x;
+    int y;
 
     /**
      * Constructor for objects of class Albania
